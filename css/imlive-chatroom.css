@@ -1,0 +1,79 @@
+/* Chat room */
+
+.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+.stchatroom iframe {height: 635px;}
+
+@media (max-width:6000px) and (min-width:2000px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 635px;}
+}
+
+@media (max-width:1199.99px) and (min-width:992px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 480px;}
+}
+
+@media (max-width:991.99px) and (min-width:770px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 315px;}
+}
+
+@media (max-width:769.99px) and (min-width:755px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 325px;}
+}
+
+@media (max-width:754.99px) and (min-width:745px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 325px;}
+}
+
+@media (max-width:744.99px) and (min-width:735px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 320px;}
+}
+
+@media (max-width:734.99px) and (min-width:725px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 310px;}
+}
+
+@media (max-width:724.99px) and (min-width:715px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 305px;}
+}
+
+@media (max-width:714.99px) and (min-width:705px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 300px;}
+}
+
+@media (max-width:704.99px) and (min-width:695px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 290px;}
+}
+
+@media (max-width:694.99px) and (min-width:685px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 285px;}
+}
+
+@media (max-width:684.99px) and (min-width:675px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 275px;}
+}
+
+@media (max-width:674.99px) and (min-width:663px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 260px;}
+}
+
+@media (max-width:662.99px) and (min-width:653px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 255px;}
+}
+
+@media (max-width:652.99px) and (min-width:100px) {
+	.stchatroom {margin-top: 10px;margin-left: 10px;margin-right: 10px;}
+	.stchatroom iframe {height: 650px;}
+}
