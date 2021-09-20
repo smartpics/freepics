@@ -1,6 +1,7 @@
 {
   "name": "Chatfantasy",
   "short_name": "Chatfantasy",
+  "theme_color": "#ffffff",
   "lang": "en-US",
   "start_url": "/",
   "display": "standalone",
