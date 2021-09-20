@@ -1,1 +1,0 @@
-importScripts("https://ads.exoclick.com/worker.php");
